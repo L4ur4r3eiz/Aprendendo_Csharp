@@ -93,7 +93,8 @@ namespace exercicios
         }
     }
 
-            namespace exercicios
+    
+    namespace exercicios
     {
         public class ContaBancaria
         {
