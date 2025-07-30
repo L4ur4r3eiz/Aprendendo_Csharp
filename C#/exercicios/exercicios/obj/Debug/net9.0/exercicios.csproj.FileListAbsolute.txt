@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\bin\Debug\net9.0\exercicios.exe
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\bin\Debug\net9.0\exercicios.deps.json
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\bin\Debug\net9.0\exercicios.runtimeconfig.json
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\bin\Debug\net9.0\exercicios.dll
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\bin\Debug\net9.0\exercicios.pdb
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\obj\Debug\net9.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\obj\Debug\net9.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\obj\Debug\net9.0\exercicios.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\obj\Debug\net9.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\obj\Debug\net9.0\exercicios.dll
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\obj\Debug\net9.0\refint\exercicios.dll
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\obj\Debug\net9.0\exercicios.pdb
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\obj\Debug\net9.0\exercicios.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\C#\exercicios\exercicios\obj\Debug\net9.0\ref\exercicios.dll
