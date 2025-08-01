@@ -149,7 +149,7 @@ namespace Helloword
             }
             else
             {
-                Console.WriteLine("Hmm...Você etá mais para um trouxa. Tome cuidado se for parente do Herry 💥");
+                Console.WriteLine("Hmm...Você está mais para um trouxa. Tome cuidado se for parente do Herry 💥");
             }
         }
     }
