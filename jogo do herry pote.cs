@@ -18,11 +18,11 @@ namespace Helloword
             {
                 Console.Clear();
                 Console.WriteLine("🎮 BEM-VINDO AO TEXTE DE BRUXO EM C# OU CERÁ QUE É UM TROUXA?🎮");
-                Console.WriteLine("1 - 💰 Cofrinho Digital (Soma de dois valores)");
+                Console.WriteLine("1 - 💰 Cofrinho Mágico (Soma de dois valores)");
                 Console.WriteLine("2 - 🚀 Contagem Espacial (Contar de 1 a 10)");
                 Console.WriteLine("3 - ⚡ Detector de Energia (Par ou Ímpar)");
                 Console.WriteLine("4 - 🧠 Desafio da Tabuada Mágica");
-                Console.WriteLine("5 - 🎓 Simulador de Notas da Escola dos Magos");
+                Console.WriteLine("5 - 🎓 Simulador de Notas da Escola dos Bruxos");
                 Console.WriteLine("0 - ❌ Sair do programa");
                 Console.Write("Escolha um desafio: ");
 
