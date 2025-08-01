@@ -157,21 +157,7 @@ namespace Helloword
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    //ABAIXO ESTÁ ALGUNS EXERCICIOS, NÃO CONSEGUI DEIXAR ELES FUNCIONANDO NO MESMO CODIGO/PROGRAMA
 
 
 
